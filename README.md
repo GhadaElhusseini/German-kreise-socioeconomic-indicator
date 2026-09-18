@@ -19,5 +19,5 @@ The data files are processed versions of the original datasets. Basic preparatio
 5. Constructs the socioeconomic indicator.
 6. Generates the final visualization.
 
-Some initial data preparation was performed manually in Excel. The resulting processed files are included in `data/processed/`.
+Some initial data preparation was performed manually in Excel. The resulting processed files are included in the repo as well
 
